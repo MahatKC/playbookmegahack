@@ -12,8 +12,8 @@ ________
 
 ### Links úteis
 
-* [APK Completo](https://drive.google.com/file/d/1dgyfod54xbqqqhXPwQ5Gg3mYHFOAekBt/view?usp=sharing)
+* [Baixar APK Completo](https://drive.google.com/file/d/1dgyfod54xbqqqhXPwQ5Gg3mYHFOAekBt/view?usp=sharing)
 * [Pitch](https://youtu.be/Baa-o7Ehn1g)
-* [Demo 1m](https://youtu.be/dR6M5bgw57Q)
+* [Demo 1 minuto](https://youtu.be/dR6M5bgw57Q)
 * [Demo Completa](https://www.youtube.com/watch?v=yePwMJCkt-4)
-* [PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/1e60b318-dbd4-4861-895d-1877c697fc20.pdf)
+* [PDF com maiores informações](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/1e60b318-dbd4-4861-895d-1877c697fc20.pdf)

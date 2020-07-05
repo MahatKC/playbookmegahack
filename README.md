@@ -14,5 +14,6 @@ ________
 
 * [APK Completo](https://drive.google.com/file/d/1dgyfod54xbqqqhXPwQ5Gg3mYHFOAekBt/view?usp=sharing)
 * [Pitch](https://youtu.be/Baa-o7Ehn1g)
-* [Demo](https://placeholder.com)
+* [Demo 1m](https://youtu.be/dR6M5bgw57Q)
+* [Demo Completa](https://www.youtube.com/watch?v=yePwMJCkt-4)
 * [PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/1e60b318-dbd4-4861-895d-1877c697fc20.pdf)

@@ -4,8 +4,11 @@
 
 <p align="center">
   <img alt="New DM" src="https://github.com/MahatKC/playbookmegahack/blob/master/time%20logo.png">
-</p><br>
+</p>
+
 Fora utilizado a plataforma Unity para o desenvolvimento do **Play Book** do título: ***O Peixinho Que Perdeu O Inho*** que consiste na linguagem C# e alguns trechos em programação em blocos como na parte de animação.
+
+________
 
 ### Links úteis
 

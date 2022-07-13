@@ -6,7 +6,7 @@
   <img alt="New DM" src="https://github.com/MahatKC/playbookmegahack/blob/master/time%20logo.png">
 </p>
 
-Unity was used to develop the **Play Book** ***O Peixinho Perdeu O Inho***. It is mostly made up of C# code and some parts of block programming, such as in the animations.
+Unity was used to develop the **Play Book** ***"O Peixinho Perdeu O Inho"***. It is mostly made up of C# code and some parts of block programming, such as in the animations.
 
 ________
 

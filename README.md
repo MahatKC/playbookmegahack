@@ -1,19 +1,19 @@
 # Playbook Mega Hack 3.0
 
-## Solução desenvolvida para o Desafio Árvore no 3º Mega Hack.
+## Game developed for the Árvore Challenge in the 3rd Mega Hack.
 
 <p align="center">
   <img alt="New DM" src="https://github.com/MahatKC/playbookmegahack/blob/master/time%20logo.png">
 </p>
 
-Foi utilizada a plataforma Unity para o desenvolvimento do **Play Book** do título: ***O Peixinho Perdeu O Inho*** que consiste na linguagem C# e alguns trechos em programação em blocos como na parte de animação.
+Unity was used to develop the **Play Book** ***O Peixinho Perdeu O Inho***. It is mostly made up of C# code and some parts of block programming, such as in the animations.
 
 ________
 
-### Links úteis
+### Useful links
 
-* [Baixar APK Completo](https://drive.google.com/file/d/1dgyfod54xbqqqhXPwQ5Gg3mYHFOAekBt/view?usp=sharing)
+* [Download full APK](https://drive.google.com/file/d/1dgyfod54xbqqqhXPwQ5Gg3mYHFOAekBt/view?usp=sharing)
 * [Pitch](https://youtu.be/Baa-o7Ehn1g)
-* [Demo 1 minuto](https://youtu.be/dR6M5bgw57Q)
-* [Demo Completa](https://www.youtube.com/watch?v=yePwMJCkt-4)
-* [PDF com maiores informações](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/1e60b318-dbd4-4861-895d-1877c697fc20.pdf)
+* [1 minute demo](https://youtu.be/dR6M5bgw57Q)
+* [Full demo](https://www.youtube.com/watch?v=yePwMJCkt-4)
+* [PDF with extra information (in Portuguese)](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/1e60b318-dbd4-4861-895d-1877c697fc20.pdf)
